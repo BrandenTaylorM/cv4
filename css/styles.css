@@ -1,0 +1,189 @@
+.top-container {
+  background-color: #EAF6F6;
+  margin-bottom: 20px;
+  padding-top: 75px;
+  position: relative;
+}
+
+.intro {
+  position: relative;
+  bottom: 50px;
+}
+
+.comic-profile {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.profile {
+  border-top: 40px;
+}
+
+.middle-container {
+  padding: 100px auto 100px auto;
+}
+
+.personal-info {
+  width: 40%;
+  margin: 40px auto 40px auto;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px auto;
+}
+
+.contact-me {
+  position: relative;
+  margin: 50px auto 50px auto;
+  display: block;
+  width: 50%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+.rights {
+  font-size: .90rem;
+  text-align: center;
+  position: relative;
+  color: #FFFFFF
+}
+
+.btn {
+  font-family: helvetica;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-size: 1.25rem;
+  text-decoration: none;
+  text-shadow: 1px 1px 0px #DCDDDE;
+  box-shadow: 1px 1px 0px #BEE2F9;
+  padding: 10px 20px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #66BFBF;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.btn:hover {
+  color: #66BFBF;
+  background: #FCFFFF;
+}
+
+.footer-link {
+  margin: 35px 35px 35px 35px;
+}
+
+.copyright {
+  position: relative;
+  bottom: auto;
+  color: #EAF6F6;
+  top: 50px;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+
+h1 {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 2.5rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+  color: #66BFBF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  display: block;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f1d4d4;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+.skills {
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+
+.code-color {
+  float: left;
+  margin-right: 30px;
+}
+
+.seo {
+  float: right;
+  margin-left: 30px;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.pro {
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 240px;
+  top: 60px;
+}
+
+.beach {
+  position: relative;
+  bottom: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 275px;
+}
+
+.digital-campaign {
+  position: relative;
+}
